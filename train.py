@@ -6,7 +6,7 @@ from wgan import *
 from gogan import *
 from modegan import *
 from unrolledgan import *
-from trivial import *
+from magan import *
 from infogan import *
 from madgan_ind import *
 from models.toy_models import *
@@ -118,7 +118,7 @@ if __name__ == '__main__':
 #                        **params)
 #
 #
-#            # Disc. for TRIVIAL
+#            # Disc. for MAGAN
 #            d_net = ToyNet(1, dim_x, dim_h=dim_h, last_act=tf.sigmoid, act=leaky_relu, bn=False)
 #            train_trivial(data, g_net, d_net, name='TRIVIAL_' + name, n_generators=n_generators,
 #                         eval_funcs=[gen_eval_func('TRIVIAL_' + name, params['batch_size'])],
