@@ -47,7 +47,7 @@ launchpadlib==1.10.2
 lazr.restfulclient==0.13.3
 lazr.uri==1.0.3
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.3
 Markdown==2.6.9
 MarkupSafe==0.18
 matplotlib==2.1.0
