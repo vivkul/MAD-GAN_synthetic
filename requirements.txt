@@ -127,7 +127,7 @@ trash-cli==0.12.7
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==1.11.4
 wadllib==1.3.2
 wcwidth==0.1.7
