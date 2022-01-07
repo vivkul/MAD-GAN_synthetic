@@ -17,7 +17,7 @@ command-not-found==0.3
 compizconfig-python==0.9.11.3
 configobj==4.7.2
 configparser==3.5.0
-cvxopt==1.1.4
+cvxopt==1.2.7
 cycler==0.10.0
 Cython==0.20.1.post0
 debtagshw==0.1
