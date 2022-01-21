@@ -33,7 +33,7 @@ functools32==3.2.3.post2
 html5lib==0.9999999
 httplib2==0.8
 ipykernel==4.5.1
-ipython==5.1.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 Jinja2==2.7.2
 joblib==0.7.1
