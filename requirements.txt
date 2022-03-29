@@ -70,7 +70,7 @@ openpyxl==1.7.0
 openshot==1.4.3
 PAM==0.4.2
 pandas==0.13.1
-paramiko==1.10.1
+paramiko==2.10.1
 pathlib2==2.1.0
 patsy==0.2.1
 pbr==3.1.1
