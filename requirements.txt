@@ -102,7 +102,7 @@ pyxdg==0.25
 PyYAML==3.10
 pyzmq==14.0.1
 reportlab==3.0
-requests==2.2.1
+requests==2.20.0
 scikit-image==0.13.1
 scipy==0.19.1
 SecretStorage==2.0.0
